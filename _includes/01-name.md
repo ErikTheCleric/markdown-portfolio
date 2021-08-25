@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Erik Hale
+## Completed on 8/25/2021
+### A smaller text
